@@ -3,7 +3,6 @@
 import MeetingTypeList from '@/components/meeting-type-list/MeetingTypeList';
 import RunningTimeAndDate from '@/components/time-date/RunningTimeAndDate';
 import { useGetCalls } from '@/hooks/useGetCalls';
-import { Call, CallRecording } from '@stream-io/video-react-sdk';
 import React from 'react';
 
 const Home = () => {
