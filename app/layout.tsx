@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Stroom',
   description: 'Video Meet up',
-  icons: { icon: 'icons/logo.svg' },
+  icons: { icon: '/icons/logo.svg' },
 };
 
 export default function RootLayout({
